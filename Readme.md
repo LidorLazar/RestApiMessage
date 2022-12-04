@@ -6,13 +6,13 @@ I recomment to use in Thunder there all the function work.
 ## Installation & Run
 ```bash
 Clone the Project
-# 
+# https://github.com/LidorLazar/RestApiMessage
 Activesion the ENV 
 # \Arba\env\Scripts>activate
 Install the requerments
 # pip install -r requirements.txt
 Run the program 
-# py main.py
+# py app.py
 
 # API Endpoint : http://127.0.0.1:5000
 ```
