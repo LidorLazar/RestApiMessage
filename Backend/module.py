@@ -1,6 +1,7 @@
 from Backend import app, db
-from datetime import datetime
 
+
+"""Define the Data base"""
 class Messages(db.Model):
     index = db.Column('index', db.Integer, primary_key=True)
     id = db.Column('id', db.Integer)
